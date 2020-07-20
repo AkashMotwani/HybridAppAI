@@ -6,11 +6,11 @@
         id        = "com.kadibu.dresadmin"
         version   = "1.5.0">
 
-    <name>NexGenSoftwareConsultancy</name>
+    <name>AxionaTechnologies</name>
 
-    <description>NexGen Software Consultancy Services Updates Application</description>
+    <description>Axiona Technologies Updates Application</description>
 
-    <author href="https://www.nexgen-software.tech/" email="nitesh.motwani@nexgen-software.tech">
+    <author href="https://axiona.business.site/" email="jaya.sadarangani.ngp@gmail.com">
        Nitesh Motwani
     </author>
         <splash src="Axiona.jpg" />
